@@ -82,7 +82,6 @@ section.hero {
   background: url('./images/hero-bg-xl.png');
   height: 100%;
   z-index: -1;
-  float: right;
   max-height: 335px;
   background-size: cover;
 }
